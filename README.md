@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Mahine Learning, Bioinformatics
+- 🔭 I’m currently working on Mahine Learning, Bioinformatics and Quantum Computing
 - 🌱 I’m currently learning Advanced Quantum Algorithms
 - 👯 I’m looking to collaborate on AI for Healthcare
 - 🤔 I’m looking for help with Charity
