@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Mahine Learning, Bioinformatics and Quantum Computing
-- 🌱 I’m currently learning Advanced Quantum Algorithms
-- 👯 I’m looking to collaborate on AI for Healthcare
+- 🔭 I’m currently working on **Mahine Learning, Bioinformatics** and **Quantum Computing**
+- 🌱 I’m currently learning **Advanced Quantum Algorithms**
+- 👯 I’m looking to collaborate on **AI for Healthcare**
 - 🤔 I’m looking for help with Charity
-- 💬 Ask me about Optimization and Simulation
+- 💬 Ask me about **Optimization** and **Simulation**
 - 📫 How to reach me: @SigdelPhx
 - 😄 Pronouns: Vasuji
 - ⚡ Fun fact: Quanta Guru
