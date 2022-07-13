@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Mahine Learning, Bioinformatics** and **Quantum Computing**
 - 🌱 I’m currently learning **Advanced Quantum Algorithms**
-- 👯 I’m looking to collaborate on **AI and Quantum Algorithms in Finance**
+- 👯 I’m looking to collaborate on **AI and Quantum Algorithms in Healthcare data**
 - 💬 Ask me about **Optimization** and **Simulation**
 - 📫 How to reach me: @SigdelPhx
 - ⚡ Fun fact: Quanta Guru
