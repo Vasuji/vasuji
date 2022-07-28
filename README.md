@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **Mahine Learning, Bioinformatics** and **Quantum Computing**
+- 🔭 I’m currently working on **Machine Learning, Bioinformatics** and **Medical Informatics**
 - 🌱 I’m currently learning **Advanced Quantum Algorithms**
 - 👯 I’m looking to collaborate on **AI and Quantum Algorithms in Healthcare data**
 - 💬 Ask me about **Optimization** and **Simulation**
