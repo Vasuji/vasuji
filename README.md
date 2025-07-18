@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **Machine Learning, Bioinformatics** and **Medical Informatics**
-- 🌱 I’m currently learning **Advanced Quantum Algorithms**
-- 👯 I’m looking to collaborate on **AI and Quantum Algorithms in Healthcare data**
+- 🔭 I’m currently working on **Quantum AI and Machine Learning for compex systems e.g., BCI, Financial Systems** and **Quantum Omics**
+- 🌱 I’m currently learning and Exploring **Advanced Quantum Algorithms**
+- 👯 I’m looking to collaborate on **AI and Quantum Algorithms in Complex Systems**
 - 💬 Ask me about **Optimization** and **Simulation**
 - 📫 How to reach me: @sigdelq
 
