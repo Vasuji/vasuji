@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **Quantum AI and Machine Learning for compex systems e.g., BCI, Financial Systems** and **Quantum Omics**
+- 🔭 I’m currently working on **Quantum AI for compex systems e.g., BCI, Financial Systems** and **Quantum Omics**
 - 🌱 I’m currently learning and Exploring **Advanced Quantum Algorithms**
 - 👯 I’m looking to collaborate on **AI and Quantum Algorithms in Complex Systems**
 - 💬 Ask me about **Optimization** and **Simulation**
