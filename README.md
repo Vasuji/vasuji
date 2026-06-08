@@ -7,13 +7,10 @@
 - 📫 How to reach me: @sigdelq
 
 <!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sigdelq&show_icons=true&hide_border=true" alt="sigdelq's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigdelq&show_icons=true&hide_border=true" alt="sigdelq's top languages" />
-</p>
+![sigdelq's github stats](https://github-readme-stats.vercel.app/api?username=sigdelq&show_icons=true&hide_border=true)
+![sigdelq's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sigdelq&show_icons=true&hide_border=true&layout=compact)
 
 <!-- Visitor Badge -->
 <br />
-<p align="center">
-  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=sigdelq.sigdelq" />
-</p>
+
+![Profile views](https://komarev.com/ghpvc/?username=sigdelq&color=blue&style=flat)
