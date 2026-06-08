@@ -9,8 +9,8 @@
 
 
 <!-- GitHub Stats -->
-![sigdelq's github stats](https://github-readme-stats-fast.vercel.app/api?username=sigdelq&show_icons=true&hide_border=true)
-![sigdelq's top languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sigdelq&show_icons=true&hide_border=true&layout=compact)
+![vasuji's github stats](https://github-readme-stats-fast.vercel.app/api?username=sigdelq&show_icons=true&hide_border=true)
+![vasuji's top languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sigdelq&show_icons=true&hide_border=true&layout=compact)
 
 
 <!-- Visitor Badge -->
