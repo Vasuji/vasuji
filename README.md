@@ -6,9 +6,12 @@
 - 💬 Ask me about **Optimization** and **Simulation**
 - 📫 How to reach me: @sigdelq
 
+
+
 <!-- GitHub Stats -->
-![sigdelq's github stats](https://github-readme-stats.vercel.app/api?username=sigdelq&show_icons=true&hide_border=true)
-![sigdelq's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sigdelq&show_icons=true&hide_border=true&layout=compact)
+![sigdelq's github stats](https://github-readme-stats-fast.vercel.app/api?username=sigdelq&show_icons=true&hide_border=true)
+![sigdelq's top languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sigdelq&show_icons=true&hide_border=true&layout=compact)
+
 
 <!-- Visitor Badge -->
 <br />
