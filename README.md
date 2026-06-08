@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning and Exploring **Advanced Quantum Algorithms**
 - 👯 I’m looking to collaborate on **AI and Quantum Algorithms in Complex Systems**
 - 💬 Ask me about **Optimization** and **Simulation**
-- 📫 How to reach me: @sigdelq
+- 📫 How to reach me: @vasuji
 
 
 
